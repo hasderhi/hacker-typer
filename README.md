@@ -2,7 +2,7 @@
 
 ## Intro
 
-Use this the next time you use apt and someone asks you if you're hacking...
+Use this the next time you use `apt` and someone asks you if you're hacking...
 
 ![Preview image of a terminal with "pseudo code" in it](preview.png)
 
